@@ -1,1 +1,1 @@
-# ReactJs_movie
+# ReactJs_Theory
